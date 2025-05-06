@@ -8,11 +8,11 @@
   "github": "https://github.com/tahabayraktar",
   "linkedin": "https://linkedin.com/in/tahabayraktar",
 
-  "yetenekler": [
-    { "name": "Java", "logo": "/logos/java.svg", "level": 5 },
-    { "name": "Spring Boot", "logo": "/logos/Spring_Boot.svg.png", "level": 3 },
-    { "name": "C#", "logo": "/logos/CSharp.png", "level": 3 },
-    { "name": "PostgreSql", "logo": "/logos/PostgreSql.png", "level": 4 },
-    { "name": "Python", "logo": "/logos/Pyhton.png", "level": 2 }
-  ]
+ "yetenekler": [
+  { "name": "Java", "logo": "/logos/java.svg", "level": 5 },
+  { "name": "Spring Boot", "logo": "/logos/Spring_Boot.svg.png", "level": 5 },
+  { "name": "C#", "logo": "/logos/CSharp.png", "level": 5 },
+  { "name": "PostgreSql", "logo": "/logos/PostgreSql.png", "level": 5 },
+  { "name": "Python", "logo": "/logos/Pyhton.png", "level": 5 }
+]
 }

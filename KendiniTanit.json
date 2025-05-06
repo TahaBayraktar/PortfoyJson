@@ -14,5 +14,25 @@
   { "name": "C#", "logo": "/logos/CSharp.png", "level": 5 },
   { "name": "PostgreSql", "logo": "/logos/PostgreSql.png", "level": 5 },
   { "name": "Python", "logo": "/logos/Pyhton.png", "level": 5 }
+],"egitimler": [
+  {
+    "school": "Malatya Fen Lisesi",
+    "degree": "Lise",
+    "year": "2015 - 2019",
+    "gpa": "91 / 100"
+  },
+  {
+    "school": "İnönü Üniversitesi",
+    "degree": "Bilgisayar Mühendisliği (Lisans)",
+    "year": "2019 - 2025",
+    "gpa": "3.40 / 4.00"
+  }
+],
+"diller": [
+  {
+    "name": "İngilizce",
+    "level": "B1 - Orta Seviye"
+  }
 ]
+  
 }

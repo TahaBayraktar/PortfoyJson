@@ -51,6 +51,14 @@
   "sehir": "Malatya",
   "hobiler": "Kitap okumak, yazılım geliştirmek, bisiklet sürmek",
   "kariyerHedefi": "Yurt dışında Frontend Developer olarak çalışmak"
+},
+ "footer": {
+  "isim": "Taha Bayraktar",
+  "aciklama": "Frontend'e tutkuyla bağlı, kullanıcı odaklı arayüzler geliştiren bir mühendisim. Bu portföy sitesinde projelerim ve deneyimlerime göz atabilirsin.",
+  "github": "https://github.com/TahaBayraktar",
+  "linkedin": "https://www.linkedin.com/in/tahabayraktar",
+  "email": "mailto:tahabayraktar@example.com",
+  "instagram": "https://www.instagram.com/tahabayraktar"
 }
 
   

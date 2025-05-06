@@ -33,6 +33,13 @@
     "name": "İngilizce",
     "level": "C2 - İleri Seviye Seviye"
   }
-]
+],
+  "kisiselBilgiler": {
+  "ad": "Taha Bayraktar",
+  "dogumTarihi": "14 Nisan 2001",
+  "sehir": "Malatya",
+  "hobiler": "Kitap okumak, yazılım geliştirmek, bisiklet sürmek",
+  "kariyerHedefi": "Yurt dışında Frontend Developer olarak çalışmak"
+}
   
 }

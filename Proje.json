@@ -21,6 +21,7 @@
       ],
       "projeLink": "https://idaliss.com",
       "kaynakKodu": ""
+      "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dosyalar/Idaliss_Detay.docx"
     },
     
     
@@ -34,6 +35,7 @@
       ],
       "projeLink": "https://tahadoviz.com",
       "kaynakKodu": "https://github.com/TahaBayraktar/DovizApi"
+      "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dosyalar/Idaliss_Detay.docx"
     }
   ]
 }

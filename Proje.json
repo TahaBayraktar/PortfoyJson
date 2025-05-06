@@ -1,1 +1,23 @@
-
+{
+  "projeler": [
+    {
+      "baslik": "Döviz Tahmin Sistemi",
+      "aciklama": "SARIMA modeli ile kur tahminleri yapan bir web arayüz.",
+      "gorseller": [
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/project1_1.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/project1_2.png"
+      ],
+      "projeLink": "https://tahadoviz.com",
+      "kaynakKodu": "https://github.com/TahaBayraktar/DovizApi"
+    },
+    {
+      "baslik": "İdaliss",
+      "aciklama": "Sevgililer için anı sitesi: fotoğraf, mesaj, özel tarihler!",
+      "gorseller": [
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/idaliss1.png"
+      ],
+      "projeLink": "https://idaliss.com",
+      "kaynakKodu": ""
+    }
+  ]
+}

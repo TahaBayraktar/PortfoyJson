@@ -8,13 +8,24 @@
   "github": "https://github.com/tahabayraktar",
   "linkedin": "https://linkedin.com/in/tahabayraktar",
 
+
+  "sliderYetenekler": [
+  { "name": "Java", "logo": "/logos/java.svg" },
+  { "name": "Spring Boot", "logo": "/logos/Spring_Boot.svg.png" },
+  { "name": "C#", "logo": "/logos/CSharp.png" },
+  { "name": "PostgreSql", "logo": "/logos/PostgreSql.png" },
+  { "name": "Python", "logo": "/logos/Pyhton.png" }
+],
+
  "yetenekler": [
   { "name": "Java", "logo": "/logos/java.svg", "level": 5 },
   { "name": "Spring Boot", "logo": "/logos/Spring_Boot.svg.png", "level": 5 },
   { "name": "C#", "logo": "/logos/CSharp.png", "level": 5 },
   { "name": "PostgreSql", "logo": "/logos/PostgreSql.png", "level": 5 },
   { "name": "Python", "logo": "/logos/Pyhton.png", "level": 5 }
-],"egitimler": [
+],
+  
+  "egitimler": [
   {
     "school": "Malatya Fen Lisesi",
     "degree": "Lise",

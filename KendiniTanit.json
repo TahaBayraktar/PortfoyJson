@@ -40,6 +40,14 @@
   "sehir": "Malatya",
   "hobiler": "Kitap okumak, yazılım geliştirmek, bisiklet sürmek",
   "kariyerHedefi": "Yurt dışında Frontend Developer olarak çalışmak"
-}
+},
+  "deneyimler": [
+  {
+    "sirket": "ABC Yazılım",
+    "pozisyon": "Frontend Stajyeri",
+    "tarih": "Haziran 2023 - Eylül 2023",
+    "aciklama": "React ve Tailwind ile projeler geliştirdim, takım içinde aktif rol aldım."
+  }
+]
   
 }

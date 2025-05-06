@@ -1,6 +1,31 @@
 {
   "projeler": [
     {
+      "baslik": "İdaliss",
+      "aciklama": "Sevgililer için anı sitesi: fotoğraf, mesaj, özel tarihler!",
+      "gorseller": [
+       "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim1.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim2.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim3.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim4.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim5.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim6.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim7.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim8.png",
+         "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim9.png",
+         "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim10.png",
+         "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim11.png",
+         "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim12.png",
+         "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim13.png",
+         "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim14.png",
+      ],
+      "projeLink": "https://idaliss.com",
+      "kaynakKodu": ""
+    }
+    
+    
+    
+    {
       "baslik": "Döviz Tahmin Sistemi",
       "aciklama": "SARIMA modeli ile kur tahminleri yapan bir web arayüz.",
       "gorseller": [
@@ -10,14 +35,6 @@
       "projeLink": "https://tahadoviz.com",
       "kaynakKodu": "https://github.com/TahaBayraktar/DovizApi"
     },
-    {
-      "baslik": "İdaliss",
-      "aciklama": "Sevgililer için anı sitesi: fotoğraf, mesaj, özel tarihler!",
-      "gorseller": [
-        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/idaliss1.png"
-      ],
-      "projeLink": "https://idaliss.com",
-      "kaynakKodu": ""
-    }
+    
   ]
 }

@@ -10,19 +10,19 @@
 
 
   "sliderYetenekler": [
-  { "name": "Java", "logo": "/logos/java.svg" },
-  { "name": "Spring Boot", "logo": "/logos/Spring_Boot.svg.png" },
-  { "name": "C#", "logo": "/logos/CSharp.png" },
-  { "name": "PostgreSql", "logo": "/logos/PostgreSql.png" },
-  { "name": "Python", "logo": "/logos/Pyhton.png" }
+  { "name": "Java", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/java.svg" },
+  { "name": "Spring Boot", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Spring_Boot.svg.png" },
+  { "name": "C#", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/CSharp.png" },
+  { "name": "PostgreSql", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/PostgreSql.png" },
+  { "name": "Python", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Pyhton.png" }
 ],
 
  "yetenekler": [
-  { "name": "Java", "logo": "/logos/java.svg", "level": 5 },
-  { "name": "Spring Boot", "logo": "/logos/Spring_Boot.svg.png", "level": 5 },
-  { "name": "C#", "logo": "/logos/CSharp.png", "level": 5 },
-  { "name": "PostgreSql", "logo": "/logos/PostgreSql.png", "level": 5 },
-  { "name": "Python", "logo": "/logos/Pyhton.png", "level": 5 }
+  { "name": "Java", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/java.svg", "level": 5 },
+  { "name": "Spring Boot", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Spring_Boot.svg.png" , "level": 5 },
+  { "name": "C#", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/CSharp.png", "level": 5 },
+  { "name": "PostgreSql", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/PostgreSql.png", "level": 5 },
+  { "name": "Python", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Pyhton.png", "level": 5 }
 ],
   
   "egitimler": [

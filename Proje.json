@@ -20,8 +20,9 @@
          "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim14.png"
       ],
       "projeLink": "https://idaliss.com",
+      "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dosyalar/Idaliss_Detay.docx",
       "kaynakKodu": ""
-      "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dosyalar/Idaliss_Detay.docx"
+      
     },
     
     
@@ -34,8 +35,9 @@
         "https://raw.githubusercontent.com/.../project1_2.png"
       ],
       "projeLink": "https://tahadoviz.com",
+      "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dosyalar/Idaliss_Detay.docx",
       "kaynakKodu": "https://github.com/TahaBayraktar/DovizApi"
-      "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dosyalar/Idaliss_Detay.docx"
+     
     }
   ]
 }

@@ -1,65 +1,65 @@
 {
- "profilFoto": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Taha.jpeg",
+  "profilFoto": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Taha.jpeg",
   "adSoyad": "Taha Bayraktar",
- "unvan": "Backend Developer",
- "aciklama": "Güvenli, ölçeklenebilir ve verimli sunucu tarafı uygulamalar geliştirmeye odaklanıyorum. Yazılım mimarisi, veritabanı tasarımı ve API entegrasyonu konularında kendimi sürekli geliştiriyorum."
+  "unvan": "Backend Developer",
+  "aciklama": "Güvenli, ölçeklenebilir ve verimli sunucu tarafı uygulamalar geliştirmeye odaklanıyorum. Yazılım mimarisi, veritabanı tasarımı ve API entegrasyonu konularında kendimi sürekli geliştiriyorum.",
   "projelerLink": "/projects",
   "iletisimLink": "/contact",
   "github": "https://github.com/TahaBayraktar",
   "linkedin": "https://www.linkedin.com/in/taha-bayraktar-2322b3258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 
-
   "sliderYetenekler": [
-  { "name": "Java", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/java.svg" },
-  { "name": "Spring Boot", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Spring_Boot.svg.png" },
-  { "name": "C#", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/CSharp.png" },
-  { "name": "PostgreSql", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/PostgreSql.png" },
-  { "name": "Python", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Pyhton.png" }
-],
+    { "name": "Java", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/java.svg" },
+    { "name": "Spring Boot", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Spring_Boot.svg.png" },
+    { "name": "C#", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/CSharp.png" },
+    { "name": "PostgreSql", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/PostgreSql.png" },
+    { "name": "Python", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Python.png" }
+  ],
 
- "yetenekler": [
-  { "name": "Java", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/java.svg", "level": 5 },
-  { "name": "Spring Boot", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Spring_Boot.svg.png" , "level": 5 },
-  { "name": "C#", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/CSharp.png", "level": 5 },
-  { "name": "PostgreSql", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/PostgreSql.png", "level": 5 },
-  { "name": "Python", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Pyhton.png", "level": 5 }
-],
-  
+  "yetenekler": [
+    { "name": "Java", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/java.svg", "level": 5 },
+    { "name": "Spring Boot", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Spring_Boot.svg.png", "level": 5 },
+    { "name": "C#", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/CSharp.png", "level": 5 },
+    { "name": "PostgreSql", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/PostgreSql.png", "level": 5 },
+    { "name": "Python", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Python.png", "level": 5 }
+  ],
+
   "egitimler": [
-  {
-    "school": "VATAN ANADOLU LİSESİ",
-    "degree": "Lise",
-    "year": "2016 - 2020",
-    "gpa": "94 / 100"
-  },
-  {
-    "school": "İnönü Üniversitesi",
-    "degree": "Bilgisayar Mühendisliği (Lisans)",
-    "year": "2020 - 2025",
-    "gpa": "3.12 / 4.00"
-  }
-],
-"diller": [
-  {
-    "name": "İngilizce",
-    "level": "B1 - Orta Seviye"
-  }
-],
-  "kisiselBilgiler": {
-  "ad": "Taha Bayraktar",
-  "dogumTarihi": "26 Kasım",
-  "sehir": "Malatya",
-  "hobiler": "Yazılım geliştirmek, yüzmek, bilgisayar oyunları",
-  "kariyerHedefi": "Küresel ölçekte etki yaratabilecek yazılım projelerinde Backend Developer olarak katkı sağlamak."
-},
- "footer": {
-  "isim": "Taha Bayraktar",
-  "aciklama": "Modern sistemlerin kalbinde yer alan güvenli, ölçeklenebilir ve etkili çözümler üretmeye odaklanan bir Backend Developer’ım.",
-  "github": "https://github.com/TahaBayraktar",
-  "linkedin": "https://www.linkedin.com/in/taha-bayraktar-2322b3258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  "email": "mailto:thbayraktar782@gmail.com",
-  "instagram": "https://www.instagram.com/tahexis?igsh=MWFkenN0eXZsdnFzbw=="
-}
+    {
+      "school": "VATAN ANADOLU LİSESİ",
+      "degree": "Lise",
+      "year": "2016 - 2020",
+      "gpa": "94 / 100"
+    },
+    {
+      "school": "İnönü Üniversitesi",
+      "degree": "Bilgisayar Mühendisliği (Lisans)",
+      "year": "2020 - 2025",
+      "gpa": "3.12 / 4.00"
+    }
+  ],
 
-  
+  "diller": [
+    {
+      "name": "İngilizce",
+      "level": "B1 - Orta Seviye"
+    }
+  ],
+
+  "kisiselBilgiler": {
+    "ad": "Taha Bayraktar",
+    "dogumTarihi": "26 Kasım",
+    "sehir": "Malatya",
+    "hobiler": "Yazılım geliştirmek, yüzmek, bilgisayar oyunları",
+    "kariyerHedefi": "Küresel ölçekte etki yaratabilecek yazılım projelerinde Backend Developer olarak katkı sağlamak."
+  },
+
+  "footer": {
+    "isim": "Taha Bayraktar",
+    "aciklama": "Modern sistemlerin kalbinde yer alan güvenli, ölçeklenebilir ve etkili çözümler üretmeye odaklanan bir Backend Developer’ım.",
+    "github": "https://github.com/TahaBayraktar",
+    "linkedin": "https://www.linkedin.com/in/taha-bayraktar-2322b3258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "email": "mailto:thbayraktar782@gmail.com",
+    "instagram": "https://www.instagram.com/tahexis"
+  }
 }

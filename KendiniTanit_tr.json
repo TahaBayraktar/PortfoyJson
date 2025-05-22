@@ -1,12 +1,12 @@
 {
  "profilFoto": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Taha.jpeg",
   "adSoyad": "Taha Bayraktar",
-  "unvan": "Frontend Developer • React • TailwindCSS • UX/UI",
-  "aciklama": "Modern ve kullanıcı dostu web arayüzleri oluşturmayı seviyorum. Etkileşimli ve duyarlı tasarımlarla markaları dijitalde öne çıkarıyorum.",
+ "unvan": "Backend Developer",
+ "aciklama": "Güvenli, ölçeklenebilir ve verimli sunucu tarafı uygulamalar geliştirmeye odaklanıyorum. Yazılım mimarisi, veritabanı tasarımı ve API entegrasyonu konularında kendimi sürekli geliştiriyorum."
   "projelerLink": "/projects",
   "iletisimLink": "/contact",
-  "github": "https://github.com/tahabayraktar",
-  "linkedin": "https://linkedin.com/in/tahabayraktar",
+  "github": "https://github.com/TahaBayraktar",
+  "linkedin": "https://www.linkedin.com/in/taha-bayraktar-2322b3258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 
 
   "sliderYetenekler": [
@@ -27,38 +27,38 @@
   
   "egitimler": [
   {
-    "school": "Malatya Fen Lisesi",
+    "school": "VATAN ANADOLU LİSESİ",
     "degree": "Lise",
-    "year": "2015 - 2019",
-    "gpa": "91 / 100"
+    "year": "2016 - 2020",
+    "gpa": "94 / 100"
   },
   {
     "school": "İnönü Üniversitesi",
     "degree": "Bilgisayar Mühendisliği (Lisans)",
-    "year": "2019 - 2025",
-    "gpa": "3.40 / 4.00"
+    "year": "2020 - 2025",
+    "gpa": "3.12 / 4.00"
   }
 ],
 "diller": [
   {
     "name": "İngilizce",
-    "level": "C2 - İleri Seviye Seviye"
+    "level": "B1 - Orta Seviye"
   }
 ],
   "kisiselBilgiler": {
   "ad": "Taha Bayraktar",
-  "dogumTarihi": "26 Kasım 2002",
+  "dogumTarihi": "26 Kasım",
   "sehir": "Malatya",
-  "hobiler": "Kitap okumak, yazılım geliştirmek, bisiklet sürmek",
-  "kariyerHedefi": "Yurt dışında Frontend Developer olarak çalışmak"
+  "hobiler": "Yazılım geliştirmek, yüzmek, bilgisayar oyunları",
+  "kariyerHedefi": "Küresel ölçekte etki yaratabilecek yazılım projelerinde Backend Developer olarak katkı sağlamak."
 },
  "footer": {
   "isim": "Taha Bayraktar",
-  "aciklama": "Backend'e tutkuyla bağlı, kullanıcı odaklı arayüzler geliştiren bir mühendisim. Bu portföy sitesinde projelerim ve deneyimlerime göz atabilirsin.",
+  "aciklama": "Modern sistemlerin kalbinde yer alan güvenli, ölçeklenebilir ve etkili çözümler üretmeye odaklanan bir Backend Developer’ım.",
   "github": "https://github.com/TahaBayraktar",
-  "linkedin": "https://www.linkedin.com/in/tahabayraktar",
-  "email": "mailto:tahabayraktar@example.com",
-  "instagram": "https://www.instagram.com/tahabayraktar"
+  "linkedin": "https://www.linkedin.com/in/taha-bayraktar-2322b3258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  "email": "mailto:thbayraktar782@gmail.com",
+  "instagram": "https://www.instagram.com/tahexis?igsh=MWFkenN0eXZsdnFzbw=="
 }
 
   

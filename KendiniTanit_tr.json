@@ -18,7 +18,7 @@
     { "name": "Python", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Pyhton.png" },
     { "name": "Htlm & Css", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/HtmlCss.png" },
     { "name": "Javascript", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Js.png" },
-    { "name": "Flutter", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Flutter.png" }
+    { "name": "Flutter", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Flutter.png" },
     
   ],
 
@@ -30,7 +30,7 @@
     { "name": "Python", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Pyhton.png", "level": 3 },
     { "name": "Htlm & Css", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/HtmlCss.png", "level": 3 },
     { "name": "Javascript", "logo":  "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Js.png", "level": 2 },
-    { "name": "Flutter", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Flutter.png", "level": 2 }
+    { "name": "Flutter", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Flutter.png", "level": 2 },
   ],
 
   "egitimler": [

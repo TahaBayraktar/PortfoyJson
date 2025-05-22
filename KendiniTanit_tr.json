@@ -1,4 +1,4 @@
-Harika Taha! O zaman sadece ilk hatayı (eksik virgül) düzeltiyorum, "Pyhton.png" linkini ise olduğu gibi bırakıyorum. İşte sadece gerekli düzeltme yapılmış ve geçerli hale getirilmiş JSON:
+
 
 {
   "profilFoto": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Taha.jpeg",
@@ -66,5 +66,4 @@ Harika Taha! O zaman sadece ilk hatayı (eksik virgül) düzeltiyorum, "Pyhton.p
   }
 }
 
-Artık bu dosya JSON formatına %100 uygun ve gönül rahatlığıyla projeye entegre edebilirsin. Başka bir alanı da kontrol etmemi ister misin?
 

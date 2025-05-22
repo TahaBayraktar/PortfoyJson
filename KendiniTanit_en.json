@@ -1,1 +1,65 @@
+{
+  "profilFoto": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Taha.jpeg",
+  "adSoyad": "Taha Bayraktar",
+  "unvan": "Frontend Developer • React • TailwindCSS • UX/UI",
+  "aciklama": "I love creating modern and user-friendly web interfaces. With interactive and responsive designs, I help brands stand out in the digital world.",
+  "projelerLink": "/projects",
+  "iletisimLink": "/contact",
+  "github": "https://github.com/tahabayraktar",
+  "linkedin": "https://linkedin.com/in/tahabayraktar",
 
+  "sliderYetenekler": [
+    { "name": "Java", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/java.svg" },
+    { "name": "Spring Boot", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Spring_Boot.svg.png" },
+    { "name": "C#", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/CSharp.png" },
+    { "name": "PostgreSql", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/PostgreSql.png" },
+    { "name": "Python", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Pyhton.png" }
+  ],
+
+  "yetenekler": [
+    { "name": "Java", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/java.svg", "level": 5 },
+    { "name": "Spring Boot", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Spring_Boot.svg.png", "level": 5 },
+    { "name": "C#", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/CSharp.png", "level": 5 },
+    { "name": "PostgreSql", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/PostgreSql.png", "level": 5 },
+    { "name": "Python", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Pyhton.png", "level": 5 }
+  ],
+
+  "egitimler": [
+    {
+      "school": "Malatya Science High School",
+      "degree": "High School",
+      "year": "2015 - 2019",
+      "gpa": "91 / 100"
+    },
+    {
+      "school": "İnönü University",
+      "degree": "Bachelor's in Computer Engineering",
+      "year": "2019 - 2025",
+      "gpa": "3.40 / 4.00"
+    }
+  ],
+
+  "diller": [
+    {
+      "name": "English",
+      "level": "C2 - Advanced Level"
+    }
+  ],
+
+  "kisiselBilgiler": {
+    "ad": "Taha Bayraktar",
+    "dogumTarihi": "November 26, 2002",
+    "sehir": "Malatya",
+    "hobiler": "Reading books, software development, cycling",
+    "kariyerHedefi": "To work abroad as a Frontend Developer"
+  },
+
+  "footer": {
+    "isim": "Taha Bayraktar",
+    "aciklama": "I'm a passionate frontend developer focused on creating user-centric interfaces. Feel free to explore my projects and experiences on this portfolio site.",
+    "github": "https://github.com/TahaBayraktar",
+    "linkedin": "https://www.linkedin.com/in/tahabayraktar",
+    "email": "mailto:tahabayraktar@example.com",
+    "instagram": "https://www.instagram.com/tahabayraktar"
+  }
+}

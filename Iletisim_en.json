@@ -1,1 +1,8 @@
-
+{
+  "email": "tahabayraktar@example.com",
+  "konum": "Malatya, Turkey",
+  "linkedin": "https://www.linkedin.com/in/tahabayraktar",
+  "github": "https://github.com/TahaBayraktar",
+  "cvLink": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dosyalar/CV_TahaBayraktar.pdf",
+  "aciklama": "If you'd like to reach out, feel free to use the contact channels below. I'm always open to new projects!"
+}

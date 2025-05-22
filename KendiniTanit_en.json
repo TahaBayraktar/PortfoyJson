@@ -1,12 +1,12 @@
 {
   "profilFoto": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Taha.jpeg",
   "adSoyad": "Taha Bayraktar",
-  "unvan": "Frontend Developer • React • TailwindCSS • UX/UI",
-  "aciklama": "I love creating modern and user-friendly web interfaces. With interactive and responsive designs, I help brands stand out in the digital world.",
+  "unvan": "Backend Developer",
+  "aciklama": "I focus on building secure, scalable, and efficient server-side applications. I’m continuously improving my skills in software architecture, database design, and API integration.",
   "projelerLink": "/projects",
   "iletisimLink": "/contact",
-  "github": "https://github.com/tahabayraktar",
-  "linkedin": "https://linkedin.com/in/tahabayraktar",
+  "github": "https://github.com/TahaBayraktar",
+  "linkedin": "https://www.linkedin.com/in/taha-bayraktar-2322b3258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 
   "sliderYetenekler": [
     { "name": "Java", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/java.svg" },
@@ -26,40 +26,40 @@
 
   "egitimler": [
     {
-      "school": "Malatya Science High School",
+      "school": "VATAN ANATOLIAN HIGH SCHOOL",
       "degree": "High School",
-      "year": "2015 - 2019",
-      "gpa": "91 / 100"
+      "year": "2016 - 2020",
+      "gpa": "94 / 100"
     },
     {
       "school": "İnönü University",
-      "degree": "Bachelor's in Computer Engineering",
-      "year": "2019 - 2025",
-      "gpa": "3.40 / 4.00"
+      "degree": "Computer Engineering (Bachelor's)",
+      "year": "2020 - 2025",
+      "gpa": "3.12 / 4.00"
     }
   ],
 
   "diller": [
     {
       "name": "English",
-      "level": "C2 - Advanced Level"
+      "level": "B1 - Intermediate"
     }
   ],
 
   "kisiselBilgiler": {
     "ad": "Taha Bayraktar",
-    "dogumTarihi": "November 26, 2002",
+    "dogumTarihi": "November 26",
     "sehir": "Malatya",
-    "hobiler": "Reading books, software development, cycling",
-    "kariyerHedefi": "To work abroad as a Frontend Developer"
+    "hobiler": "Software development, swimming, video games",
+    "kariyerHedefi": "To contribute as a Backend Developer in software projects that aim for global impact."
   },
 
   "footer": {
     "isim": "Taha Bayraktar",
-    "aciklama": "I'm a passionate frontend developer focused on creating user-centric interfaces. Feel free to explore my projects and experiences on this portfolio site.",
+    "aciklama": "I’m a Backend Developer focused on delivering secure, scalable, and efficient solutions at the core of modern systems. You can explore my projects and experiences on this portfolio site.",
     "github": "https://github.com/TahaBayraktar",
-    "linkedin": "https://www.linkedin.com/in/tahabayraktar",
-    "email": "mailto:tahabayraktar@example.com",
-    "instagram": "https://www.instagram.com/tahabayraktar"
+    "linkedin": "https://www.linkedin.com/in/taha-bayraktar-2322b3258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "email": "mailto:thbayraktar782@gmail.com",
+    "instagram": "https://www.instagram.com/tahexis?igsh=MWFkenN0eXZsdnFzbw=="
   }
 }

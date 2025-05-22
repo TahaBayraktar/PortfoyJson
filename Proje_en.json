@@ -1,1 +1,38 @@
-
+{
+  "projeler": [
+    {
+      "baslik": "İdaliss",
+      "aciklama": "A memory-sharing platform for couples: photos, messages, and special dates!",
+      "gorseller": [
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim1.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim2.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim3.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim4.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim5.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim6.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim7.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim8.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim9.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim10.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim11.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim12.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim13.png",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim14.png"
+      ],
+      "projeLink": "https://idaliss.com",
+      "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dosyalar/Idaliss_Detay.docx",
+      "kaynakKodu": ""
+    },
+    {
+      "baslik": "Currency Forecast System",
+      "aciklama": "A web interface that forecasts exchange rates using the SARIMA model.",
+      "gorseller": [
+        "https://raw.githubusercontent.com/.../project1_1.png",
+        "https://raw.githubusercontent.com/.../project1_2.png"
+      ],
+      "projeLink": "https://tahadoviz.com",
+      "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dosyalar/Idaliss_Detay.docx",
+      "kaynakKodu": "https://github.com/TahaBayraktar/DovizApi"
+    }
+  ]
+}

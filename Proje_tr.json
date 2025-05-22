@@ -31,8 +31,12 @@
       "baslik": "Döviz Tahmin Sistemi",
       "aciklama": "SARIMA modeli ile kur tahminleri yapan bir web sitesi.",
       "gorseller": [
-        "https://raw.githubusercontent.com/.../project1_1.png",
-        "https://raw.githubusercontent.com/.../project1_2.png"
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Doviz_Web_Site_Fotograflar/Tanitim1.png",
+         "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Doviz_Web_Site_Fotograflar/Tanitim2.png",
+         "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Doviz_Web_Site_Fotograflar/Tanitim3.png",
+         "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Doviz_Web_Site_Fotograflar/Tanitim4.png",
+         "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Doviz_Web_Site_Fotograflar/Tanitim5.png"
+       
       ],
       "projeLink": "https://tahminpro.vercel.app/",
       "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dosyalar/Idaliss_Detay.docx",

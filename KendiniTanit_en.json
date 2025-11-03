@@ -45,13 +45,15 @@
       "gpa": "3.12 / 4.00"
     }
   ],
+  
+ 
   "deneyimler": [
     {
-      "company": "İnönü University Digital Transformation Office",
-      "position": "Backend Developer (Intern)",
-      "period": "September 2024 - January 2025",
-      "description": "Developed microservice architecture based on Spring Boot, designed PostgreSQL database schemas, and implemented JWT-based authentication systems.",
-      "technologies": ["Spring Boot", "PostgreSQL", "JWT"]
+      "sirket": "İnönü University Digital Transformation Office",
+      "pozisyon": "Backend Developer (Intern)",
+      "tarih": "September 2024 - January 2025",
+      "aciklama": "Developed microservice architecture based on Spring Boot, designed PostgreSQL database schemas, and implemented JWT-based authentication systems.",
+      "teknolojiler": ["Spring Boot", "PostgreSQL", "JWT"]
     }
   ],
 

@@ -47,6 +47,16 @@
       "gpa": "3.12 / 4.00"
     }
   ],
+  "deneyimler": [
+    {
+      "company": "İnönü Üniversitesi Dijital Dönüşüm Ofisi",
+      "position": "Backend Developer (Staj)",
+      "period": "Eylül 2025 - Ocak 2025",
+      "description": "Spring Boot tabanlı mikroservis mimarisi geliştirdim, PostgreSQL veritabanı yapıları tasarladım ve JWT tabanlı kimlik doğrulama sistemleri kurdum.",
+      "technologies": ["Spring Boot", "PostgreSQL", "JWT"]
+    }
+    
+  ],
 
   "diller": [
     {

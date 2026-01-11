@@ -60,8 +60,8 @@
 
 
     {
-    "baslik": "İnönü Üniversitesi İnufest Yarışma Yönetim Sistemi",
-    "aciklama": "İnönü Üniversitesi bünyesinde düzenlenen İnufest yarışması için geliştirilen; başvuru, değerlendirme ve organizasyon süreçlerini dijital ortamda yöneten kapsamlı bir web platformudur.",
+   "baslik": "Derso – Öğrenciler için Dijital Kampüs ve Sosyal Platform",
+  "aciklama": "Öğrencilerin ders çalışabileceği, etkileşim kurabileceği, içerik paylaşabileceği ve birlikte gelişebileceği modern bir dijital kampüs. Derso; öğrenme araçlarını sosyal etkileşimle birleştirerek daha motive edici ve sürdürülebilir bir öğrenme deneyimi sunar",nar."
     "gorseller": [
       "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto1.jpeg",
         "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto2.jpeg",

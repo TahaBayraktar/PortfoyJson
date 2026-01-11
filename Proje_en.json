@@ -1,6 +1,43 @@
 {
   "projeler": [
+
+     {
+  "baslik": "Inonu University Inufest Competition Management System",
+  "aciklama": "A comprehensive web platform developed for the Inufest competition held at Inonu University, designed to manage application submissions, evaluation workflows, and overall competition organization digitally.",
+  "gorseller": [
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_1.png",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_2.png",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_3.png",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_4.png",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_5.png",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_6.png",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_7.png",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_8.png"
+  ],
+  "projeLink": "https://inufest.inonu.edu.tr/",
+  "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Proje_Aciklama_Word/INUFEST_Backend_Proje_Raporu.docx",
+  "kaynakKodu": ""
+},
+   
+
     {
+   "baslik": "Derso – A Digital Campus and Social Platform for Students",
+  "aciklama": "A modern digital campus where students can study, connect, share content, and grow together. Derso combines learning tools with social interaction to create a more engaging, collaborative, and sustainable learning experience.",
+  "gorseller": [
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto1.jpeg",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto2.jpeg",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto3.jpeg",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto4.jpeg",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto5.jpeg",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto6.jpeg",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto7.jpeg"
+  ],
+  "projeLink": "https://www.dersocial.com/",
+  "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Proje_Aciklama_Word/DERSO_Backend_Proje_Raporu.docx",
+  "kaynakKodu": ""
+},
+   
+     {
       "baslik": "İdaliss",
       "aciklama": "A memory sharing site for couples: photos, messages, special dates and much more!",
       "gorseller": [
@@ -50,40 +87,6 @@
       "projeLink": "https://github.com/TahaBayraktar/Ileri-Derece-Nesneye-Dayali-Programlama-Deri-Fabrikasi-Uygulamasi/blob/main/NesneProje/Masa%C3%BCst%C3%BC%20Uygulamas%C4%B1%20Jar/NesneProje.jar",
       "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Proje_Aciklama_Word/Masaustu_Fabrika_Otomasyonu.docx",
       "kaynakKodu": "https://github.com/TahaBayraktar/Ileri-Derece-Nesneye-Dayali-Programlama-Deri-Fabrikasi-Uygulamasi"
-    },
-
-    {
-   "baslik": "Derso – A Digital Campus and Social Platform for Students",
-  "aciklama": "A modern digital campus where students can study, connect, share content, and grow together. Derso combines learning tools with social interaction to create a more engaging, collaborative, and sustainable learning experience.",
-  "gorseller": [
-    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto1.jpeg",
-    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto2.jpeg",
-    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto3.jpeg",
-    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto4.jpeg",
-    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto5.jpeg",
-    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto6.jpeg",
-    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto7.jpeg"
-  ],
-  "projeLink": "https://www.dersocial.com/",
-  "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Proje_Aciklama_Word/DERSO_Backend_Proje_Raporu.docx",
-  "kaynakKodu": ""
-},
-    {
-  "baslik": "Inonu University Inufest Competition Management System",
-  "aciklama": "A comprehensive web platform developed for the Inufest competition held at Inonu University, designed to manage application submissions, evaluation workflows, and overall competition organization digitally.",
-  "gorseller": [
-    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_1.png",
-    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_2.png",
-    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_3.png",
-    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_4.png",
-    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_5.png",
-    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_6.png",
-    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_7.png",
-    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_8.png"
-  ],
-  "projeLink": "https://inufest.inonu.edu.tr/",
-  "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Proje_Aciklama_Word/INUFEST_Backend_Proje_Raporu.docx",
-  "kaynakKodu": ""
-}
+    }
   ]
 }

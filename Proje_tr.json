@@ -1,6 +1,51 @@
 {
   "projeler": [
+
+
+
     {
+    "baslik": "İnönü Üniversitesi İnufest Yarışma Yönetim Sistemi",
+    "aciklama": "İnönü Üniversitesi bünyesinde düzenlenen İnufest yarışması için geliştirilen; başvuru, değerlendirme ve organizasyon süreçlerini dijital ortamda yöneten kapsamlı bir web platformudur.",
+    "gorseller": [
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_1.png",
+     "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_2.png",
+       "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_3.png",
+       "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_4.png",
+       "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_5.png",
+       "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_6.png",
+       "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_7.png",
+       "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_8.png"
+      
+  ],
+    "projeLink": "https://inufest.inonu.edu.tr/",
+    "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Proje_Aciklama_Word/INUFEST_Backend_Proje_Raporu.docx",
+    "kaynakKodu": ""
+    },
+   
+    
+    
+    {
+   "baslik": "Derso – Öğrenciler için Dijital Kampüs ve Sosyal Platform",
+  "aciklama": "Öğrencilerin ders çalışabileceği, etkileşim kurabileceği, içerik paylaşabileceği ve birlikte gelişebileceği modern bir dijital kampüs. Derso; öğrenme araçlarını sosyal etkileşimle birleştirerek daha motive edici ve sürdürülebilir bir öğrenme deneyimi sunar",
+    "gorseller": [
+      "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto1.jpeg",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto2.jpeg",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto3.jpeg",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto4.jpeg",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto5.jpeg",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto6.jpeg",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto7.jpeg"
+      
+  ],
+    "projeLink": "https://www.dersocial.com/",
+    "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Proje_Aciklama_Word/DERSO_Backend_Proje_Raporu.docx",
+    "kaynakKodu": ""
+  },
+   
+   
+
+
+     {
       "baslik": "İdaliss",
       "aciklama": "Sevgililer için anı sitesi: fotoğraf, mesaj, özel tarihler ve çok daha fazlası!",
       "gorseller": [
@@ -24,9 +69,7 @@
       "kaynakKodu": ""
       
     },
-    
-    
-    
+     
     {
       "baslik": "Döviz Tahmin Sistemi",
       "aciklama": "SARIMA modeli ile kur tahminleri yapan bir web sitesi.",
@@ -43,7 +86,8 @@
       "kaynakKodu": "https://github.com/TahaBayraktar/DovizApi"
      
     },
-    {
+
+     {
       "baslik": "Deri Fabrikası Otomasyonu",
       "aciklama": "Bir deri üretim fabrikası için geliştirilen masaüstü otomasyon sistemi. Stok yönetimi, üretim takibi, personel işlemleri,satış yönetimi ve kargo işlemlerini içerir.",
       "gorseller": [
@@ -56,46 +100,11 @@
       "projeLink": "https://github.com/TahaBayraktar/Ileri-Derece-Nesneye-Dayali-Programlama-Deri-Fabrikasi-Uygulamasi/blob/main/NesneProje/Masa%C3%BCst%C3%BC%20Uygulamas%C4%B1%20Jar/NesneProje.jar",
       "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Proje_Aciklama_Word/Masaustu_Fabrika_Otomasyonu.docx",
       "kaynakKodu": "https://github.com/TahaBayraktar/Ileri-Derece-Nesneye-Dayali-Programlama-Deri-Fabrikasi-Uygulamasi"
-    },
-
-
-    {
-   "baslik": "Derso – Öğrenciler için Dijital Kampüs ve Sosyal Platform",
-  "aciklama": "Öğrencilerin ders çalışabileceği, etkileşim kurabileceği, içerik paylaşabileceği ve birlikte gelişebileceği modern bir dijital kampüs. Derso; öğrenme araçlarını sosyal etkileşimle birleştirerek daha motive edici ve sürdürülebilir bir öğrenme deneyimi sunar",
-    "gorseller": [
-      "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto1.jpeg",
-        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto2.jpeg",
-        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto3.jpeg",
-        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto4.jpeg",
-        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto5.jpeg",
-        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto6.jpeg",
-        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto7.jpeg"
-      
-  ],
-    "projeLink": "https://www.dersocial.com/",
-    "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Proje_Aciklama_Word/DERSO_Backend_Proje_Raporu.docx",
-    "kaynakKodu": ""
-  },
+    }
+    
 
     
-  {
-    "baslik": "İnönü Üniversitesi İnufest Yarışma Yönetim Sistemi",
-    "aciklama": "İnönü Üniversitesi bünyesinde düzenlenen İnufest yarışması için geliştirilen; başvuru, değerlendirme ve organizasyon süreçlerini dijital ortamda yöneten kapsamlı bir web platformudur.",
-    "gorseller": [
-    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_1.png",
-     "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_2.png",
-       "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_3.png",
-       "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_4.png",
-       "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_5.png",
-       "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_6.png",
-       "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_7.png",
-       "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_8.png"
-      
-  ],
-    "projeLink": "https://inufest.inonu.edu.tr/",
-    "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Proje_Aciklama_Word/INUFEST_Backend_Proje_Raporu.docx",
-    "kaynakKodu": ""
-    }
+  
 
        
   

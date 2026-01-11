@@ -53,8 +53,8 @@
     },
 
     {
-  "baslik": "Inonu University Inufest Competition Management System",
-  "aciklama": "A comprehensive web platform developed for the Inufest competition organized by Inonu University, enabling digital management of application, evaluation, and organizational processes.",
+   "baslik": "Derso – A Digital Campus and Social Platform for Students",
+  "aciklama": "A modern digital campus where students can study, connect, share content, and grow together. Derso combines learning tools with social interaction to create a more engaging, collaborative, and sustainable learning experience.",
   "gorseller": [
     "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto1.jpeg",
     "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto2.jpeg",

@@ -58,6 +58,25 @@
       "kaynakKodu": "https://github.com/TahaBayraktar/Ileri-Derece-Nesneye-Dayali-Programlama-Deri-Fabrikasi-Uygulamasi"
     },
 
+
+    {
+    "baslik": "İnönü Üniversitesi İnufest Yarışma Yönetim Sistemi",
+    "aciklama": "İnönü Üniversitesi bünyesinde düzenlenen İnufest yarışması için geliştirilen; başvuru, değerlendirme ve organizasyon süreçlerini dijital ortamda yöneten kapsamlı bir web platformudur.",
+    "gorseller": [
+      "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto1.jpeg",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto2.jpeg",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto3.jpeg",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto4.jpeg",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto5.jpeg",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto6.jpeg",
+        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto7.jpeg",
+      
+  ],
+    "projeLink": "https://www.dersocial.com/",
+    "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Proje_Aciklama_Word/Masaustu_Fabrika_Otomasyonu.docx",
+    "kaynakKodu": ""
+  },
+
     
   {
     "baslik": "İnönü Üniversitesi İnufest Yarışma Yönetim Sistemi",
@@ -77,6 +96,9 @@
     "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Proje_Aciklama_Word/Masaustu_Fabrika_Otomasyonu.docx",
     "kaynakKodu": ""
     }
+
+       
+  
     
   ]
 }

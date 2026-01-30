@@ -41,7 +41,23 @@
     "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Proje_Aciklama_Word/DERSO_Backend_Proje_Raporu.docx",
     "kaynakKodu": ""
   },
+
+    {
+  "baslik": "Dershanet – Eğitim Kurumu Yönetim ve Değerlendirme Platformu",
+  "aciklama": "Türkiye genelindeki dershanelerin tek bir platformda listelendiği; kullanıcıların dershaneleri inceleyip puanlayabildiği, dershane yöneticilerinin ise kurumlarını, öğretmenlerini ve eğitim programlarını yönetebildiği kapsamlı bir web platformudur.",
+  "gorseller": [
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dershanet_Foto/Foto1.png",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dershanet_Foto/Foto2.png",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dershanet_Foto/Foto3.png",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dershanet_Foto/Foto4.png",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dershanet_Foto/Foto5.png"
+  ],
+  "projeLink": "https://www.dershanet.com",
+  "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Proje_Aciklama_Word/Dershanet_Teknik_Dokumantasyon.docx",
+  "kaynakKodu": ""
+},
    
+
    
 
 

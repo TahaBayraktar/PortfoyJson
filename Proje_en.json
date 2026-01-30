@@ -36,6 +36,21 @@
   "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Proje_Aciklama_Word/DERSO_Backend_Proje_Raporu.docx",
   "kaynakKodu": ""
 },
+
+    {
+  "baslik": "Dershanet – Education Center Management and Evaluation Platform",
+  "aciklama": "A comprehensive web platform that brings together education centers across Türkiye, allowing users to explore, review, and rate institutions, while enabling education center administrators to manage their organizations, teachers, and educational programs through a dedicated panel.",
+  "gorseller": [
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dershanet_Foto/Foto1.png",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dershanet_Foto/Foto2.png",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dershanet_Foto/Foto3.png",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dershanet_Foto/Foto4.png",
+    "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dershanet_Foto/Foto5.png"
+  ],
+  "projeLink": "https://www.dershanet.com",
+  "detayDosyasi": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Proje_Aciklama_Word/Dershanet_Teknik_Dokumantasyon.docx",
+  "kaynakKodu": ""
+},
    
      {
       "baslik": "İdaliss",

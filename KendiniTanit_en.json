@@ -72,10 +72,10 @@
     },
     {
       "sirket": "İnönü University Digital Transformation Office",
-      "pozisyon": "Backend Developer (Intern)",
+      "pozisyon": "Backend & DevOps Developer (Intern)",
       "tarih": "September 2025 - February 2026",
-      "aciklama": "Developed microservice architecture based on Spring Boot, designed PostgreSQL database schemas, and implemented JWT-based authentication systems.",
-      "teknolojiler": ["Spring Boot", "PostgreSQL", "JWT"]
+      "aciklama": "I built the project's entire backend: a Spring Boot microservice architecture, PostgreSQL database design and JWT-based authentication. I also ran the DevOps side, including building and deploying the application to production.",
+      "teknolojiler": ["Spring Boot", "PostgreSQL", "Microservices", "Backend", "DevOps"]
     }
   ],
 

@@ -74,10 +74,10 @@
     },
     {
       "sirket": "İnönü Üniversitesi Dijital Dönüşüm Ofisi",
-      "pozisyon": "Backend Developer (Staj)",
+      "pozisyon": "Backend & DevOps Developer (Staj)",
       "tarih": "Eylül 2025 - Şubat 2026",
-      "aciklama": "Spring Boot tabanlı mikroservis mimarisi geliştirdim, PostgreSQL veritabanı yapıları tasarladım ve JWT tabanlı kimlik doğrulama sistemleri kurdum.",
-      "teknolojiler": ["Spring Boot", "PostgreSQL", "JWT"]
+      "aciklama": "Projenin backend'inin tamamını ben geliştirdim: Spring Boot tabanlı mikroservis mimarisi, PostgreSQL veritabanı tasarımı ve JWT ile kimlik doğrulama. Uygulamanın derlenip canlıya alınması dahil DevOps süreçlerini de yürüttüm.",
+      "teknolojiler": ["Spring Boot", "PostgreSQL", "Mikroservis", "Backend", "DevOps"]
     }
   ],
     

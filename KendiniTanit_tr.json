@@ -26,14 +26,21 @@
   "araclar": [
     { "name": "Docker", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Docker.svg" },
     { "name": "AWS", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/AWS.svg" },
+    { "name": "Hetzner", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Hetzner.svg" },
+    { "name": "Vercel", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Vercel.svg" },
+    { "name": "Render", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Render.svg" },
+    { "name": "Redis", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Redis.svg" },
     { "name": "GitHub Actions (CI/CD)", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/GitHubActions.svg" },
+    { "name": "GitLab", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/GitLab.svg" },
     { "name": "Git", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Git.svg" }
   ],
 
   "yapayZeka": [
     { "name": "Claude", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Claude.svg" },
     { "name": "Codex", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Codex.svg" },
-    { "name": "GPT", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/OpenAI.svg" }
+    { "name": "GPT", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/OpenAI.svg" },
+    { "name": "Gemini", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Gemini.svg" },
+    { "name": "NotebookLM", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/NotebookLM.svg" }
   ],
 
   "egitimler": [

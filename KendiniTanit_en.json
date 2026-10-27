@@ -5,6 +5,7 @@
   "roller": ["Backend Engineer", "DevOps Engineer", "Cloud & CI/CD"],
   "kodKarti": {
     "rol": ["Backend", "DevOps"],
+    "stack": ["Java", "C#", "Python"],
     "devops": ["Docker", "AWS", "CI/CD"]
   },
   "aciklama": "I build secure, scalable and efficient server-side applications and ship them end to end with Docker, CI/CD and cloud infrastructure. I keep improving in software architecture, infrastructure automation and DevOps practices.",

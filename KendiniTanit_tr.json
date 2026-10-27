@@ -7,6 +7,7 @@
   "roller": ["Backend Engineer", "DevOps Engineer", "Cloud & CI/CD"],
   "kodKarti": {
     "rol": ["Backend", "DevOps"],
+    "stack": ["Java", "C#", "Python"],
     "devops": ["Docker", "AWS", "CI/CD"]
   },
   "aciklama": "Güvenli, ölçeklenebilir ve verimli sunucu tarafı uygulamalar geliştiriyor; bunları Docker, CI/CD ve bulut altyapısıyla uçtan uca canlıya taşıyorum. Yazılım mimarisi, altyapı otomasyonu ve DevOps süreçlerinde kendimi sürekli geliştiriyorum.",

@@ -5,6 +5,7 @@
 
     {
     "baslik": "İnönü Üniversitesi İnufest Yarışma Yönetim Sistemi",
+    "oneCikan": true,
     "aciklama": "İnönü Üniversitesi bünyesinde düzenlenen İnufest yarışması için geliştirilen; başvuru, değerlendirme ve organizasyon süreçlerini dijital ortamda yöneten kapsamlı bir web platformudur.",
     "gorseller": [
     "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_1.webp",
@@ -26,6 +27,7 @@
     
     {
    "baslik": "Derso – Öğrenciler için Dijital Kampüs ve Sosyal Platform",
+   "oneCikan": true,
   "aciklama": "Öğrencilerin ders çalışabileceği, etkileşim kurabileceği, içerik paylaşabileceği ve birlikte gelişebileceği modern bir dijital kampüs. Derso; öğrenme araçlarını sosyal etkileşimle birleştirerek daha motive edici ve sürdürülebilir bir öğrenme deneyimi sunar",
     "gorseller": [
       "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto1.webp",
@@ -44,6 +46,7 @@
 
     {
   "baslik": "Dershanet – Eğitim Kurumu Yönetim ve Değerlendirme Platformu",
+  "oneCikan": true,
   "aciklama": "Türkiye genelindeki dershanelerin tek bir platformda listelendiği; kullanıcıların dershaneleri inceleyip puanlayabildiği, dershane yöneticilerinin ise kurumlarını, öğretmenlerini ve eğitim programlarını yönetebildiği kapsamlı bir web platformudur.",
   "gorseller": [
     "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dershanet_Foto/Foto1.webp",
@@ -63,6 +66,7 @@
 
      {
       "baslik": "İdaliss",
+      "oneCikan": true,
       "aciklama": "Sevgililer için anı sitesi: fotoğraf, mesaj, özel tarihler ve çok daha fazlası!",
       "gorseller": [
        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim1.webp",
@@ -88,6 +92,7 @@
      
     {
       "baslik": "Döviz Tahmin Sistemi",
+      "oneCikan": false,
       "aciklama": "SARIMA modeli ile kur tahminleri yapan bir web sitesi.",
       "gorseller": [
         "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Doviz_Web_Site_Fotograflar/Tanitim1.webp",
@@ -105,6 +110,7 @@
 
      {
       "baslik": "Deri Fabrikası Otomasyonu",
+      "oneCikan": false,
       "aciklama": "Bir deri üretim fabrikası için geliştirilen masaüstü otomasyon sistemi. Stok yönetimi, üretim takibi, personel işlemleri,satış yönetimi ve kargo işlemlerini içerir.",
       "gorseller": [
         "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Masaustu_Fabrika_Otomasyonu/Tanitim1.webp",

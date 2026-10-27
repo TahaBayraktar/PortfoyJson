@@ -3,6 +3,7 @@
 
      {
   "baslik": "Inonu University Inufest Competition Management System",
+  "oneCikan": true,
   "aciklama": "A comprehensive web platform developed for the Inufest competition held at Inonu University, designed to manage application submissions, evaluation workflows, and overall competition organization digitally.",
   "gorseller": [
     "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Inufest_Fotograflar/Foto_1.webp",
@@ -22,6 +23,7 @@
 
     {
    "baslik": "Derso – A Digital Campus and Social Platform for Students",
+   "oneCikan": true,
   "aciklama": "A modern digital campus where students can study, connect, share content, and grow together. Derso combines learning tools with social interaction to create a more engaging, collaborative, and sustainable learning experience.",
   "gorseller": [
     "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Derso_Fotograflar/Foto1.webp",
@@ -39,6 +41,7 @@
 
     {
   "baslik": "Dershanet – Education Center Management and Evaluation Platform",
+  "oneCikan": true,
   "aciklama": "A comprehensive web platform that brings together education centers across Türkiye, allowing users to explore, review, and rate institutions, while enabling education center administrators to manage their organizations, teachers, and educational programs through a dedicated panel.",
   "gorseller": [
     "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Dershanet_Foto/Foto1.webp",
@@ -54,6 +57,7 @@
    
      {
       "baslik": "İdaliss",
+      "oneCikan": true,
       "aciklama": "A memory sharing site for couples: photos, messages, special dates and much more!",
       "gorseller": [
         "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim1.webp",
@@ -77,6 +81,7 @@
     },
     {
       "baslik": "Currency Forecasting System",
+      "oneCikan": false,
       "aciklama": "A web-based interface that predicts currency trends using the SARIMA model.",
       "gorseller": [
         "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Doviz_Web_Site_Fotograflar/Tanitim1.webp",
@@ -91,6 +96,7 @@
     },
     {
       "baslik": "Leather Factory Automation",
+      "oneCikan": false,
       "aciklama": "A desktop automation system developed for a leather production factory. Includes stock management, production tracking, personnel operations, sales management, and shipping processes.",
       "gorseller": [
         "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Masaustu_Fabrika_Otomasyonu/Tanitim1.webp",

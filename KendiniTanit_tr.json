@@ -3,8 +3,14 @@
 {
   "profilFoto": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Taha.jpeg",
   "adSoyad": "Taha Bayraktar",
-  "unvan": "Backend Developer",
-  "aciklama": "Güvenli, ölçeklenebilir ve verimli sunucu tarafı uygulamalar geliştirmeye odaklanıyorum. Yazılım mimarisi, veritabanı tasarımı ve API entegrasyonu konularında kendimi sürekli geliştiriyorum.",
+  "unvan": "Backend & DevOps Engineer",
+  "roller": ["Backend Engineer", "DevOps Engineer", "Cloud & CI/CD"],
+  "kodKarti": {
+    "rol": ["Backend", "DevOps"],
+    "stack": ["Java", "Spring Boot", "Python"],
+    "devops": ["Docker", "AWS", "CI/CD"]
+  },
+  "aciklama": "Güvenli, ölçeklenebilir ve verimli sunucu tarafı uygulamalar geliştiriyor; bunları Docker, CI/CD ve bulut altyapısıyla uçtan uca canlıya taşıyorum. Yazılım mimarisi, altyapı otomasyonu ve DevOps süreçlerinde kendimi sürekli geliştiriyorum.",
   "projelerLink": "/projects",
   "iletisimLink": "/contact",
   "github": "https://github.com/TahaBayraktar",
@@ -89,12 +95,12 @@
     "dogumTarihi": "26 Kasım",
     "sehir": "İstanbul",
     "hobiler": "Yazılım geliştirmek, yüzmek, bilgisayar oyunları",
-    "kariyerHedefi": "Küresel ölçekte etki yaratabilecek yazılım projelerinde Backend Developer olarak katkı sağlamak."
+    "kariyerHedefi": "Küresel ölçekte etki yaratabilecek projelerde Backend ve DevOps mühendisi olarak, yazılımı geliştirmekten canlıda güvenilir şekilde çalıştırmaya kadar her aşamaya katkı sağlamak."
   },
 
   "footer": {
     "isim": "Taha Bayraktar",
-    "aciklama": "Modern sistemlerin kalbinde yer alan güvenli, ölçeklenebilir ve etkili çözümler üretmeye odaklanan bir Backend Developer’ım.",
+    "aciklama": "Uygulamaları geliştirmekten altyapıyı kurup canlıya taşımaya kadar uçtan uca çalışan bir Backend & DevOps mühendisiyim.",
     "github": "https://github.com/TahaBayraktar",
     "linkedin": "https://www.linkedin.com/in/taha-bayraktar-2322b3258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "email": "thbayraktar782@gmail.com",

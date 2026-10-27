@@ -1,8 +1,14 @@
 {
   "profilFoto": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Taha.jpeg",
   "adSoyad": "Taha Bayraktar",
-  "unvan": "Backend Developer",
-  "aciklama": "I focus on building secure, scalable, and efficient server-side applications. I’m continuously improving my skills in software architecture, database design, and API integration.",
+  "unvan": "Backend & DevOps Engineer",
+  "roller": ["Backend Engineer", "DevOps Engineer", "Cloud & CI/CD"],
+  "kodKarti": {
+    "rol": ["Backend", "DevOps"],
+    "stack": ["Java", "Spring Boot", "Python"],
+    "devops": ["Docker", "AWS", "CI/CD"]
+  },
+  "aciklama": "I build secure, scalable and efficient server-side applications and ship them end to end with Docker, CI/CD and cloud infrastructure. I keep improving in software architecture, infrastructure automation and DevOps practices.",
   "projelerLink": "/projects",
   "iletisimLink": "/contact",
   "github": "https://github.com/TahaBayraktar",
@@ -85,12 +91,12 @@
     "dogumTarihi": "November 26",
     "sehir": "Istanbul",
     "hobiler": "Software development, swimming, video games",
-    "kariyerHedefi": "To contribute as a Backend Developer in software projects that aim for global impact."
+    "kariyerHedefi": "To contribute as a Backend & DevOps engineer to projects with global impact, across every stage from building software to running it reliably in production."
   },
 
   "footer": {
     "isim": "Taha Bayraktar",
-    "aciklama": "I’m a Backend Developer focused on delivering secure, scalable, and efficient solutions at the core of modern systems. You can explore my projects and experiences on this portfolio site.",
+    "aciklama": "I'm a Backend & DevOps engineer working end to end, from building applications to setting up infrastructure and shipping them to production. Explore my projects and experience on this site.",
     "github": "https://github.com/TahaBayraktar",
     "linkedin": "https://www.linkedin.com/in/taha-bayraktar-2322b3258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "email": "thbayraktar782@gmail.com",

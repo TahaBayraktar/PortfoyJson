@@ -66,7 +66,7 @@
 
      {
       "baslik": "İdaliss",
-      "oneCikan": true,
+      "oneCikan": false,
       "aciklama": "Sevgililer için anı sitesi: fotoğraf, mesaj, özel tarihler ve çok daha fazlası!",
       "gorseller": [
        "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim1.webp",

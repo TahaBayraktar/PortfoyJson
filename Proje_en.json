@@ -57,7 +57,7 @@
    
      {
       "baslik": "İdaliss",
-      "oneCikan": true,
+      "oneCikan": false,
       "aciklama": "A memory sharing site for couples: photos, messages, special dates and much more!",
       "gorseller": [
         "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/idaliss.com_Fotograflar/Tanitim1.webp",

@@ -5,7 +5,6 @@
   "roller": ["Backend Engineer", "DevOps Engineer", "Cloud & CI/CD"],
   "kodKarti": {
     "rol": ["Backend", "DevOps"],
-    "stack": ["Java", "Spring Boot", "Python"],
     "devops": ["Docker", "AWS", "CI/CD"]
   },
   "aciklama": "I build secure, scalable and efficient server-side applications and ship them end to end with Docker, CI/CD and cloud infrastructure. I keep improving in software architecture, infrastructure automation and DevOps practices.",
@@ -56,7 +55,7 @@
     {
       "school": "İnönü University",
       "degree": "Computer Engineering (Bachelor's)",
-      "year": "2021 - 2025",
+      "year": "2021 - February 2026",
       "gpa": "3.23 / 4.00"
     }
   ],
@@ -73,7 +72,7 @@
     {
       "sirket": "İnönü University Digital Transformation Office",
       "pozisyon": "Backend Developer (Intern)",
-      "tarih": "September 2024 - February 2025",
+      "tarih": "September 2025 - February 2026",
       "aciklama": "Developed microservice architecture based on Spring Boot, designed PostgreSQL database schemas, and implemented JWT-based authentication systems.",
       "teknolojiler": ["Spring Boot", "PostgreSQL", "JWT"]
     }

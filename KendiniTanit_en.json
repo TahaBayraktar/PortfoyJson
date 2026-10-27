@@ -14,7 +14,7 @@
     { "name": "C#", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/CSharp.png" },
     { "name": "PostgreSql", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/PostgreSql.png" },
     { "name": "Python", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Pyhton.png" },
-     { "name": "Htlm & Css", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/HtmlCss.png" },
+     { "name": "HTML & CSS", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/HtmlCss.png" },
     { "name": "Javascript", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Js.png" },
     { "name": "Flutter", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Flutter.png" }
   ],
@@ -25,7 +25,7 @@
     { "name": "C#", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/CSharp.png", "level": 3 },
     { "name": "PostgreSql", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/PostgreSql.png", "level": 3 },
     { "name": "Python", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Pyhton.png", "level": 3 },
-     { "name": "Htlm & Css", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/HtmlCss.png", "level": 3 },
+     { "name": "HTML & CSS", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/HtmlCss.png", "level": 3 },
     { "name": "Javascript", "logo":  "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Js.png", "level": 2 },
     { "name": "Flutter", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Flutter.png", "level": 2 }
     
@@ -77,7 +77,7 @@
     "aciklama": "I’m a Backend Developer focused on delivering secure, scalable, and efficient solutions at the core of modern systems. You can explore my projects and experiences on this portfolio site.",
     "github": "https://github.com/TahaBayraktar",
     "linkedin": "https://www.linkedin.com/in/taha-bayraktar-2322b3258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    "email": "mailto:thbayraktar782@gmail.com",
+    "email": "thbayraktar782@gmail.com",
     "instagram": "https://www.instagram.com/tahexis?igsh=MWFkenN0eXZsdnFzbw=="
   }
 }

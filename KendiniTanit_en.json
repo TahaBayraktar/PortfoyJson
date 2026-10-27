@@ -27,6 +27,12 @@
     { "name": "Git", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Git.svg" }
   ],
 
+  "yapayZeka": [
+    { "name": "Claude", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Claude.svg" },
+    { "name": "Codex", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Codex.svg" },
+    { "name": "GPT", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/OpenAI.svg" }
+  ],
+
   "egitimler": [
     {
       "school": "VATAN ANATOLIAN HIGH SCHOOL",

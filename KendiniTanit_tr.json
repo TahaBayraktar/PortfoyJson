@@ -18,19 +18,16 @@
     { "name": "Python", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Pyhton.png" },
     { "name": "HTML & CSS", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/HtmlCss.png" },
     { "name": "Javascript", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Js.png" },
+    { "name": "React", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/React.svg" },
     { "name": "Flutter", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Flutter.png" }
     
   ],
 
-  "yetenekler": [
-    { "name": "Java", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/java.svg", "level": 4 },
-    { "name": "Spring Boot", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Spring_Boot.svg.png", "level": 4 },
-    { "name": "C#", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/CSharp.png", "level": 3 },
-    { "name": "PostgreSql", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/PostgreSql.png", "level": 3 },
-    { "name": "Python", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Pyhton.png", "level": 3 },
-    { "name": "HTML & CSS", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/HtmlCss.png", "level": 3 },
-    { "name": "Javascript", "logo":  "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Js.png", "level": 2 },
-    { "name": "Flutter", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Flutter.png", "level": 2 }
+  "araclar": [
+    { "name": "Docker", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Docker.svg" },
+    { "name": "AWS", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/AWS.svg" },
+    { "name": "GitHub Actions (CI/CD)", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/GitHubActions.svg" },
+    { "name": "Git", "logo": "https://raw.githubusercontent.com/TahaBayraktar/PortfoyJson/main/Fotograflar/Git.svg" }
   ],
 
   "egitimler": [
@@ -49,6 +46,13 @@
   ],
   
 "deneyimler": [
+    {
+      "sirket": "Predwise",
+      "pozisyon": "Yazılım Mühendisi",
+      "tarih": "Mayıs 2026 - Halen",
+      "aciklama": "Depolar (warehouse) için bir yönetim sistemini uçtan uca geliştiriyorum. Frontend, backend ve DevOps süreçlerinin tamamından sorumlu full stack mühendis olarak çalışıyorum.",
+      "teknolojiler": ["Full Stack", "Frontend", "Backend", "DevOps", "AWS", "CI/CD"]
+    },
     {
       "sirket": "İnönü Üniversitesi Dijital Dönüşüm Ofisi",
       "pozisyon": "Backend Developer (Staj)",

@@ -62,14 +62,14 @@
     {
       "sirket": "Predwise",
       "pozisyon": "Yazılım Mühendisi",
-      "tarih": "Mayıs 2026 - Halen",
+      "tarih": "Mayıs 2026 - Devam Ediyor",
       "aciklama": "Depolar (warehouse) için bir yönetim sistemini uçtan uca geliştiriyorum. Frontend, backend ve DevOps süreçlerinin tamamından sorumlu full stack mühendis olarak çalışıyorum.",
       "teknolojiler": ["Full Stack", "Frontend", "Backend", "DevOps", "AWS", "CI/CD"]
     },
     {
       "sirket": "İnönü Üniversitesi Dijital Dönüşüm Ofisi",
       "pozisyon": "Backend Developer (Staj)",
-      "tarih": "Eylül 2024 - Ocak 2025",
+      "tarih": "Eylül 2024 - Şubat 2025",
       "aciklama": "Spring Boot tabanlı mikroservis mimarisi geliştirdim, PostgreSQL veritabanı yapıları tasarladım ve JWT tabanlı kimlik doğrulama sistemleri kurdum.",
       "teknolojiler": ["Spring Boot", "PostgreSQL", "JWT"]
     }
